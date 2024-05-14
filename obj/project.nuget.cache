@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ToRzwnxpZHzuNrWzMRHrHHf2snSSPivBU4Z94BNHFDXAEqqSGM2Vgcip/vp4qaMbpxxF+TqhjnbKLpdpL62JwA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\FreddyVargas\\source\\repos\\GitHooks-VS\\EjemploGitHook.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\FreddyVargas\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\FreddyVargas\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\FreddyVargas\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\FreddyVargas\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
